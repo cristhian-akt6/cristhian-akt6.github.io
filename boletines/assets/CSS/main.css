@@ -158,3 +158,9 @@ padding: 1.8em;
   height: 500px;
  }
 }
+
+.linea{
+  text-align: center;
+  padding: 2px 0;
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
